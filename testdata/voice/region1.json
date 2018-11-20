@@ -1,0 +1,10 @@
+{
+    "id": "foo",
+    "name": "foo",
+    "sample_hostname": "foo",
+    "sample_port": 8080,
+    "vip": true,
+    "optional": false,
+    "deprecated": false,
+    "custom": false
+}
